@@ -1,1 +1,1 @@
-# -ConsoleAppLogAnalizer
+# ConsoleAppLogAnalizer
